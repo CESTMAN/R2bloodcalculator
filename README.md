@@ -14,3 +14,6 @@ For the physiological parameter quantification, it is sometimes necessary to kno
 * Li W, van Zijl PCM. [Quantitative theory for the transverse relaxation time of blood water.](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4207) NMR in Biomedicine. 2020;33:e4207. Erratum: NMR in Biomedicine. 2020;33:e4329.
 * Lu H, Xu F, Grgac K, Liu P, Qin Q, van Zijl P. [Calibration and validation of TRUST MRI for the estimation of cerebral blood oxygenation.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.22970) Magn Reson Med. 2012 Jan;67(1):42-9.
 * Li W, Liu P, Lu H, Strouse JJ, van Zijl PCM, Qin Q. [Fast measurement of blood T1 in the human carotid artery at 3T: Accuracy, precision, and reproducibility.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26325) Magn Reson Med. 2017 Jun;77(6):2296-2302.
+
+## Grant support
+National Institutes of Health P41 EB015909 and P41 EB031771.
