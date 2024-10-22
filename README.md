@@ -16,4 +16,4 @@ For the physiological parameter quantification, it is sometimes necessary to kno
 * Li W, Liu P, Lu H, Strouse JJ, van Zijl PCM, Qin Q. [Fast measurement of blood T1 in the human carotid artery at 3T: Accuracy, precision, and reproducibility.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26325) Magn Reson Med. 2017 Jun;77(6):2296-2302.
 
 ## Grant support
-National Institutes of Health P41 EB015909 and P41 EB031771.
+This work was supported by NIH grants P41 EB015909 and P41 EB031771.
